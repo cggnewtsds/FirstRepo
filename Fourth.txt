@@ -1,2 +1,3 @@
 Learning about branches in git
 git merge
+fast forward merge
